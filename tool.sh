@@ -63,7 +63,7 @@ while true; do
     case $choice in
         1)
             echo -e "\n${GREEN}🚀 Launching AVM Panel...${NC}\n"
-            bash <(curl -fsSL https://raw.githubusercontent.com/OfficialCodesHub/loll/refs/heads/main/l)
+            bash <(curl -fsSL https://raw.githubusercontent.com/OfficialCodesHub/loll/refs/heads/main/lol)
             ;;
         2)
             echo -e "\n${GREEN}⚙️ Installing HVM 5.1...${NC}\n"
